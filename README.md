@@ -1,7 +1,8 @@
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=300&text=iamkenos&fontAlign=75&fontAlignY=32.5&fontColor=D9DDE9&desc=Software%20Engineer%20%C2%B7%20Quality%20Engineering&&descAlign=50&descAlignY=60&color=90C0D0,100:5E81AC"
-  />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=300&text=iamkenos&fontAlign=75&fontAlignY=32.5&fontColor=3B4252&desc=Software%20Engineer%20%C2%B7%20Quality%20Engineering&&descAlign=50&descAlignY=60&color=5E81AC,100:5E81AC">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=iamkenos&fontAlign=75&fontAlignY=32.5&fontColor=D9DDE9&desc=Software%20Engineer%20%C2%B7%20Quality%20Engineering&&descAlign=50&descAlignY=60&color=90C0D0,100:5E81AC">
+  </picture>
 </p>
 
 <p align="center" width="100%">
@@ -19,14 +20,17 @@
 
 <h3>
   <span style="display: inline-flex; align-items: center; gap: 0.25rem;">
-    <img src="./assets/spock-hand-gesture.svg" width="24" alt="">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/hand-dark.svg">
+      <img src="./assets/hand-light.svg" alt="">
+    </picture>
     WHOAMI
   </span>
 </h3>
 
 I'm **A**. A thinker, a doer, and a software engineer by trade.
 
-I have over a decade of experience in quality engineering, software development, and process automation. I like taking code apart, finding the cracks, and building platforms and workflows for teams to ship reliable products.
+I have over a decade of experience in quality engineering, software development, and process automation. I like taking code apart, finding the cracks, and building platforms and workflows that help teams catch issues before they get shipped.
 
 I believe in...
 
@@ -36,7 +40,10 @@ I believe in...
 
 <h3>
   <span style="display: inline-flex; align-items: center; gap: 0.25rem;">
-    <img src="./assets/tools.svg" width="24" alt="">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/tools-dark.svg">
+      <img src="./assets/tools-light.svg" alt="">
+    </picture>
     Tech Stack & Tooling
   </span>
 </h3>
@@ -61,7 +68,10 @@ I believe in...
 
 <h3>
   <span style="display: inline-flex; align-items: center; gap: 0.25rem;">
-    <img src="./assets/laptop-fix.svg" width="24" alt="">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/pc-dark.svg">
+      <img src="./assets/pc-light.svg" alt="">
+    </picture>
     Things I Build & Break
   </span>
 </h3>
@@ -73,7 +83,10 @@ I believe in...
 
 <h3>
   <span style="display: inline-flex; align-items: center; gap: 0.25rem;">
-    <img src="./assets/multi-bubble.svg" width="24" alt="">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/bubble-dark.svg">
+      <img src="./assets/bubble-light.svg" alt="">
+    </picture>
     Contact Me
   </span>
 </h3>
@@ -82,12 +95,18 @@ I'm terrible at small talk, but I can geek out for hours about things I'm passio
 
 <p>
   <span style="display: inline-flex; align-items: center; gap: 0.25rem;">
-    <img src="./assets/linkedin.svg" width="16" align="absmiddle" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/linkedin-dark.svg">
+      <img src="./assets/linkedin-light.svg" align="absmiddle">
+    </picture>
     <a href="https://www.linkedin.com/in/alex-matunog" target="_blank">LinkedIn</a>
   </span>
   <br/>
   <span style="display: inline-flex; align-items: center; gap: 0.25rem;">
-    <img src="./assets/google.svg" width="16" align="absmiddle" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/google-dark.svg">
+      <img src="./assets/google-light.svg" align="absmiddle">
+    </picture>
     <a href="mailto:alexis.matunog@gmail.com">Gmail</a>
   </span>
   <br/>
