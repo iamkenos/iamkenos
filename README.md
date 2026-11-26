@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=300&text=iamkenos&fontAlign=75&fontAlignY=32.5&fontColor=3B4252&desc=Software%20Engineer%20%C2%B7%20Quality%20Engineering&&descAlign=50&descAlignY=60&color=5E81AC,100:5E81AC">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=iamkenos&fontAlign=75&fontAlignY=32.5&fontColor=D9DDE9&desc=Software%20Engineer%20%C2%B7%20Quality%20Engineering&&descAlign=50&descAlignY=60&color=90C0D0,100:5E81AC">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=300&text=iamkenos&fontAlign=75&fontAlignY=32.5&fontColor=3B4252&desc=Software%20Engineer%20%C2%B7%20Quality%20Engineer%20%C2%B7%20Agentic%20Development&&descAlign=62&descAlignY=60&color=5E81AC,100:5E81AC">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=iamkenos&fontAlign=75&fontAlignY=32.5&fontColor=D9DDE9&desc=Software%20Engineer%20%C2%B7%20Quality%20Engineer%20%C2%B7%20Agentic%20Development&&descAlign=62&descAlignY=60&color=90C0D0,100:5E81AC">
   </picture>
 </p>
 
@@ -51,7 +51,7 @@ I believe in...
 **Development**
 
 - TypeScript, JavaScript, Python, Google Apps Script, Java, C#
-- React, Vite, Strapi, Drupal, Flask
+- React, Vite, Astro, Svelte, Strapi, Drupal, Flask, EmDash
 - Shell Scripts
 
 **Quality Assurance**
@@ -65,6 +65,12 @@ I believe in...
 - GitHub Suite, Atlassian Suite, AWS Suite
 - Nginx, Ansible, Cloudflare
 - Virtual Environments, Linux Servers
+
+**AI**
+
+- Human-in-the-Loop, Context Engineering, Agentic Development
+- MCP Tools, Skills, Instructions, Task Index, Guardrails
+- AI Agents, Codex, Copilot, Cursor
 
 <h3>
   <span style="display: inline-flex; align-items: center; gap: 0.25rem;">
